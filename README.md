@@ -10,7 +10,7 @@
 
 ---
 
-[Email](mailto:ashperado63@email.com) • [GitHub](https://github.com/Itsyaboyandoy)
+[Email](mailto:kapitanachoowa30@email.com) • [GitHub](https://github.com/achoowa3030)
 
 </div>
 
