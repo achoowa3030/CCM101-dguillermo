@@ -48,5 +48,5 @@ Welcome to my course portfolio for **CCM101 (Cloud Computing)**. This repository
 ---
 
 ## 📬 **Connect**
-* **Email:** ashperado63@email.com
-* **GitHub Profile:** [@Itsyaboyandoy](https://github.com/Itsyaboyandoy)
+* **Email:** kapitanachoowa30.com
+* **GitHub Profile:** [@achoowa3030](https://github.com/achoowa3030)
