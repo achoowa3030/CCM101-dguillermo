@@ -2,34 +2,30 @@
 
 **Environment:** KillerCoda Cloud Environment  
 **Host Name:** ubuntu  
-**Date:** August 25, 2026  
 **Document Status:** Final  
 
 ---
 
 ## 1. Executive Summary
-This report documents the hardware specifications, operating system details, and network configurations of the target Linux instance evaluated during Checkpoint 2. The data below outlines the baseline parameters for system capacity and active resources.
+This report documents the operating system details, CPU specs, memory allocation, storage capacity, and network configuration of the evaluated Linux instance gathered from direct system execution.
 
 ---
 
-## 2. System Specifications
+## 2. System Specifications & Executed Commands
 
-| Hardware / OS Parameter | Specification / Result |
-| :--- | :--- |
-| **Operating System** | Ubuntu 24.04.4 LTS (Noble Numbat) |
-| **Kernel Version** | Linux (Ubuntu Server Environment) |
-| **CPU Architecture** | Virtualized CPU |
-| **CPU Cores** | 1 Core |
-| **Total Memory (RAM)** | 1.9 GiB (1.4 GiB Available) |
-| **Storage Capacity** | 19.0 GB Total |
-| **Primary File System** | `/dev/vda1` mounted on `/` |
-| **Disk Utilization** | 5.4 GB Used (30% Capacity) |
-| **Hostname** | `ubuntu` |
-| **IP Addresses** | `172.30.1.2` (Host) / `172.17.0.1` (Docker Bridge) |
+| Specification Parameter | Specification / Result | Command Used |
+| :--- | :--- | :--- |
+| **Operating System** | Ubuntu 24.04.4 LTS (Noble Numbat) | `lsb_release -a` |
+| **Number of CPU Cores** | 1 Core | `nproc` |
+| **Total Memory (RAM)** | 1.9 GiB (1.4 GiB Available) | `free -h` |
+| **Disk Capacity** | 19 GB Total (5.4 GB Used, 13 GB Available) | `df -h /` |
+| **Mounted File System** | `/dev/vda1` mounted on `/` | `df -h /` |
+| **Hostname** | `ubuntu` | `hostname` |
+| **IP Addresses** | `172.30.1.2`, `172.17.0.1` | `hostname -I` |
 
 ---
 
 ## 3. Storage & Network Analysis
 
-* **Resource Availability:** The system currently maintains sufficient overhead, with 73% of RAM available and 13 GB of unallocated disk space remaining on the primary partition.
-* **Network Interfacing:** The host operates on an internal subnet (`172.30.1.2`) and hosts a default Docker network bridge interface (`172.17.0.1`).
+* **Resource Availability:** The system maintains healthy performance margins, utilizing only 30% of its available 19 GB disk storage and keeping roughly 1.4 GiB of RAM available.
+* **Network Configuration:** The primary private IP assigned to the host is `172.30.1.2`, with `172.17.0.1` serving as the virtual container interface (Docker bridge).
