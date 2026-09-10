@@ -48,3 +48,14 @@
   1. **Amazon CloudFront:** A globally distributed Content Delivery Network (CDN) to serve product images and assets quickly worldwide.
   2. **Elastic Load Balancing (ELB):** To automatically distribute incoming global shopping traffic across multiple targets and regions.
   3. **Amazon Aurora:** A highly available, globally distributed relational database designed for high-throughput transactional e-commerce data.
+
+
+## Checkpoint 5 – Match the Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
