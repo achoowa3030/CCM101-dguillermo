@@ -50,12 +50,15 @@
   3. **Amazon Aurora:** A highly available, globally distributed relational database designed for high-throughput transactional e-commerce data.
 
 
-## Checkpoint 5 – Match the Cloud Services
+---
 
-| Service Category | AWS | Azure | GCP |
-| :--- | :--- | :--- | :--- |
-| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
-| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
-| **Identity Management** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
-| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
-| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | AWS | Provides generous startup credit programs (AWS Activate) and extensive serverless options for rapid development with minimal upfront investment. |
+| **Enterprise Organization** | AWS | Offers the deepest set of services, top-tier global compliance certifications, and mature governance tools for complex enterprise workloads. |
+| **Microsoft Environment** | Microsoft Azure | Offers seamless native integration with Active Directory/Entra ID, Windows Server, and Azure Hybrid Benefit to leverage existing software licenses. |
+| **AI / Machine Learning** | Google Cloud Platform | Features custom TPU hardware, Vertex AI, and cutting-edge machine learning infrastructure built on Google's deep AI research background. |
+| **Kubernetes Deployment** | Google Cloud Platform | Created the original Kubernetes open-source project and provides Google Kubernetes Engine (GKE), the most mature managed container platform. |
+| **Global Web Application** | AWS | Boasts the largest global infrastructure footprint with CloudFront CDN and Route 53 to ensure high availability and low latency worldwide. |
