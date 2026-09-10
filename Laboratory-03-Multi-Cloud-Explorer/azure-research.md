@@ -47,6 +47,8 @@ The **Azure Portal** is the official web-based unified management console used t
 
 ---
 
+![Azure Management Console](screenshots/azure-homepage.png)
+
 ### 🏢 Typical Enterprise Use Cases
 
 * **🏢 Enterprise Application Hosting:** Running mission-critical line-of-business applications and enterprise software.
