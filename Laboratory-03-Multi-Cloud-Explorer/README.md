@@ -30,3 +30,5 @@ As part of the Cloud Evaluation Team at CloudNova Technologies, this repository 
 ├── README.md                          # Main project overview and Linux investigation
 ├── cloud-platform-comparison.md       # Major cloud comparison & equivalent service mapping
 └── client-recommendations.md          # Client scenarios & multi-cloud decision matrix
+
+
