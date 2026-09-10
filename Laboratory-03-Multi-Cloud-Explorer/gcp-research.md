@@ -46,6 +46,8 @@ The **Google Cloud Console** is a web-based interface used to manage and monitor
 
 ---
 
+![Gcp Management Console](screenshots/gcp-homepage.png)
+
 ### 🏢 Typical Enterprise Use Cases
 
 * **🤖 Artificial Intelligence & Machine Learning:** Developing and scaling AI models and machine learning pipelines.
