@@ -23,6 +23,20 @@ As part of the Cloud Evaluation Team at CloudNova Technologies, this repository 
 
 ---
 
+Operating System
+![Operating System Information](screenshots/killercoda-terminal1.png)
+
+CPU information
+![CPU Information](screenshots/killercoda-terminal2.png)
+
+Memory
+![MEMORY Information](screenshots/killercoda-terminal3.png)
+
+Disk space
+![Disk Space Information](screenshots/killercoda-terminal4.png)
+
+
+
 ## 📁 Repository Structure
 
 ```text
@@ -30,5 +44,4 @@ As part of the Cloud Evaluation Team at CloudNova Technologies, this repository 
 ├── README.md                          # Main project overview and Linux investigation
 ├── cloud-platform-comparison.md       # Major cloud comparison & equivalent service mapping
 └── client-recommendations.md          # Client scenarios & multi-cloud decision matrix
-
 
