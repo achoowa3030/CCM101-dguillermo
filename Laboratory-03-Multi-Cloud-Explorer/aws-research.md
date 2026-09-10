@@ -46,6 +46,9 @@ The **AWS Management Console** serves as a centralized, web-based graphical inte
 
 ---
 
+![AWS Management Console](screenshots/aws-homepage.png)
+
+
 ### 🏢 Typical Enterprise Use Cases
 
 * **🌐 Web Application Hosting:** Deploying resilient, fault-tolerant web applications with auto-scaling capabilities.
