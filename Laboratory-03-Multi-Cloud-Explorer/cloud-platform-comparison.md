@@ -26,3 +26,14 @@
 
 4. **Which cloud platform would you personally choose and why?**
    I would choose AWS for a production environment due to its unmatched industry adoption, massive service ecosystem, and multi-region reliability features. In professional practice, cloud engineers often pair AWS with multi-cloud tools like Terraform for infrastructure provisioning to avoid vendor lock-in. However, if the project workload centered strictly around advanced machine learning workloads or microservice-heavy Kubernetes clusters, GCP would be my top alternative.
+
+
+## Checkpoint 5 – Match the Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
