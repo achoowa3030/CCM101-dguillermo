@@ -46,6 +46,7 @@ Welcome to my course portfolio for **CCM101 (Cloud Computing)**. This repository
 | **Lab 1** | Introduction to Linux & Terminal Basics | ✅ Completed |
 | **Lab 2** | Build the Cloud Infrastructure Blueprint | ✅ Completed |
 | **Lab 3** | Multi-Cloud Explorer | ✅ Completed |
+| **Lab 4** | The Cloud-Native Engineer | ✅ Completed |
 
 ---
 
