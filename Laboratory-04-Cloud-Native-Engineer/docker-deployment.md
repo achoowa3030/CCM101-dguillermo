@@ -52,4 +52,4 @@ Displays all remaining Docker containers and confirms that `competent_panini` ha
 
 The complete Docker container lifecycle is documented in the screenshot below, showing the Nginx container being identified, stopped, verified, removed, and finally confirmed as no longer present.
 
-![Container Lifecycle](Screenshots/Container-lifecycle.png)
+![Container Lifecycle](screenshots/Container-lifecycle.png)
