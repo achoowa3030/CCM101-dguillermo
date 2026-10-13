@@ -1,13 +1,13 @@
 # Mission Reflection
 
-In this laboratory activity, I learned more about cloud storage and how it can be used to store and manage files. One of the things I learned was how to deploy MinIO using Docker and access it through a web console. I encountered some difficulties when entering the Docker command, but I was able to get the server running and continue with the activity.
+## Key Learnings & Practical Execution
+* **Object Storage vs. Block Storage:** Learned why object storage is the industry standard for unstructured data (e.g., photo galleries). Storing data with custom metadata and unique identifiers allows seamless scalability without hierarchical file path bottlenecks.
+* **Containerization with Docker:** Deployed a local MinIO instance using Docker CLI and configured port mapping to access the web console directly through a web browser.
+* **Bucket & Object Management:** Created a bucket named `client-photos` and successfully uploaded `cel.jpg`, gaining practical familiarity with cloud storage hierarchy and object management.
 
-I learned that Object Storage is a good choice for storing millions of photos because it can handle large amounts of files, such as images and videos. Unlike traditional block storage, it stores data as individual objects with their own information and unique identifiers. This makes it easier to manage files, especially when more users continue uploading photos to an application.
+## Technical Challenges & Enterprise Application
+* **Troubleshooting CLI Commands:** Encountered initial command syntax errors when spinning up the MinIO container. Resolving these helped improve my Linux command-line confidence and debugging skills.
+* **Data Resilience & Disaster Recovery:** Analyzed how enterprises protect high-volume assets using redundant storage nodes, geographic data replication, and automated backup mechanisms to prevent data loss during server downtime.
 
-Using Docker made deploying MinIO easier because I could start the server with a command instead of setting up everything manually. I also learned how to use port mapping to access the MinIO web console through my browser. Seeing the server running and successfully uploading `cel.jpg` to my `client-photos` bucket made me understand the process better.
-
-A bucket is like a container where files are stored in an object storage system. In this activity, I created a bucket named `client-photos` and uploaded a sample image to it. This helped me understand how files can be organized and accessed in cloud storage.
-
-For large companies, I think they protect their data by keeping backup copies on different servers or locations. They can also use data replication and recovery systems to restore files if a server crashes. These methods help reduce the risk of permanently losing important files.
-
-Lastly, I feel that my confidence in using the Linux command line is gradually improving. I still make mistakes sometimes, but I am learning to troubleshoot errors and understand commands better. This activity taught me that patience and practice are important when working with Linux and Docker. Overall, I gained practical experience with cloud storage and became more comfortable using these tools.
+## Personal Growth
+Working through hands-on deployment reinforced the value of patience when navigating Linux environments. Container-based deployment simplified setup, and executing the full workflow—from Docker startup to web console object uploading—boosted my confidence in managing modern cloud tools.
