@@ -47,9 +47,11 @@ Welcome to my course portfolio for **CCM101 (Cloud Computing)**. This repository
 | **Lab 2** | Build the Cloud Infrastructure Blueprint | ✅ Completed |
 | **Lab 3** | Multi-Cloud Explorer | ✅ Completed |
 | **Lab 4** | The Cloud-Native Engineer | ✅ Completed |
+| **Lab 5** | Laboratory-05-Cloud-Data-Engineer | ✅ Completed |
 
 ---
 
 ## 📬 **Connect**
 * **Email:** kapitanachoowa30.com
 * **GitHub Profile:** [@achoowa3030](https://github.com/achoowa3030)
+
