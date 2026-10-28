@@ -48,6 +48,10 @@ Welcome to my course portfolio for **CCM101 (Cloud Computing)**. This repository
 | **Lab 3** | Multi-Cloud Explorer | ✅ Completed |
 | **Lab 4** | The Cloud-Native Engineer | ✅ Completed |
 | **Lab 5** | Laboratory-05-Cloud-Data-Engineer | ✅ Completed |
+| **Lab 6** | Laboratory-06-Cloud-Deployment-Engineer | ✅ Completed |
+| **Lab 7** | Laboratory-07-Cloud-Operations-Engineer | ✅ Completed |
+| **Lab 8** | Laboratory-08-Cloud-Security-Engineer | ✅ Completed |
+| **Lab 9** | Laboratory-09-Cloud-Automation-Engineer | ✅ Completed |
 
 ---
 
