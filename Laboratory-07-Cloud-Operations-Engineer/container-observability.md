@@ -1,4 +1,4 @@
-<img width="942" height="907" alt="image" src="https://github.com/user-attachments/assets/c040d6fc-3ad6-4db9-8cf9-8a4553d45ee6" />### 404 Error Log
+### 404 Error Log
 
 ```text
 172.17.0.1 - - [13/Oct/2026:13:36:15 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
