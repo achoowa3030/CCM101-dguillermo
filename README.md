@@ -52,6 +52,8 @@ Welcome to my course portfolio for **CCM101 (Cloud Computing)**. This repository
 | **Lab 7** | Laboratory-07-Cloud-Operations-Engineer | ✅ Completed |
 | **Lab 8** | Laboratory-08-Cloud-Security-Engineer | ✅ Completed |
 | **Lab 9** | Laboratory-09-Cloud-Automation-Engineer | ✅ Completed |
+| **Lab 10** | Laboratory-10-Enterprise-Cloud-Architect | ✅ Completed |
+
 
 ---
 
